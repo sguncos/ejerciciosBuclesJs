@@ -4,8 +4,7 @@
 Nota: ver funcion Math() https://www.w3schools.com/js/js_math.asp
 */
 
-let rand = Math.random() * (99 - 1);
-console.log(rand)
+
 
 
 let edades = [];
